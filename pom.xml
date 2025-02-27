@@ -36,7 +36,7 @@
 								${project.build.directory}/${project.build.finalName}.jar</jar>
 							<errTitle>App Error</errTitle>
 							<classPath>
-								<mainClass>main.interfaz</mainClass>
+								<mainClass>main.Interfaz</mainClass>
 							</classPath>
 						</configuration>
 					</execution>
